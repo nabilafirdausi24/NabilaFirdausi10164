@@ -1,0 +1,81 @@
+/*Header Section*/
+html{
+	overflow-x: hidden;
+}
+body{
+	background-color: #F9F9F9;
+}
+.header-top{
+	background-color: #303030;
+	height: 30px;
+}
+.header-top a{
+	color: #fff;
+}
+
+.header-top .nav-link{
+	padding: 0.2rem 1rem;
+}
+
+
+.header-top .btn .btn-warning{
+	background-color: #FF8E0A;
+}
+
+.header-top .btn .btn-warning:hover{
+	background-color: #FF8E0A;
+}
+
+.navbar-bottom{
+	color: white;
+/*	font-size: 16px;
+*/}
+
+.categories{
+	border: none;
+	background-color: #FF8E0A;
+}
+
+.service-icon{
+	width: 50px;
+	height: 50px;
+}
+
+.service-icon img{
+	object-fit: cover;
+	object-position: center;
+}
+
+.sidebar .card{
+	box-shadow: 0px 8px 16px 0px rgb(0,0,0,0.2);
+	-moz-box-shadow: 0px 8px 16px 0px rgb(0,0,0,0.2);
+	-webkit-box-shadow: 0px 8px 16px 0px rgb(0,0,0,0.2);
+}
+
+.foot-top{
+	background-color: #232323;
+}
+
+.foot-top p{
+	color: white;
+	font-size: 16px;
+}
+
+.foot-top a{
+	color: white;
+	font-size: 14px;
+}
+
+.foot-top a:hover{
+	color: blue;
+}
+
+.foot-bottom{
+	border-top: 1px solid white;
+	background-color: #1A1A1A;
+}
+
+.foot-bottom p{
+	color: white;
+}
+
